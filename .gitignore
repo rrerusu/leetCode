@@ -1,0 +1,15 @@
+# Files created by Visual Studio to compile C++
+*.exe
+*.sh
+
+# Files created by compiling C++
+*.o
+
+# vscode files
+/.vscode/**
+
+# Extra files
+*.txt
+
+# Funny Files
+src/sort/QuicksortInArabic.cpp
